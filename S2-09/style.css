@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+small {
+    font-size:10px
+}
+
+.color-blue {
+    color:#82b6f3
+}
+
+a {
+    color:#82b6f3
+}
+
+.background-blue {
+    background-color:#2583ef;
+    color:aliceblue
+}
+
+.espaço {
+line-height: 20px;
+background-color:#2583ef;
+color:white
+}
+
+.todo {
+    background-color:#2583ef;
+}
+
+
+footer {
+    background-color: black;
+    color:aliceblue;
+    text-align:center
+
+}
